@@ -6,7 +6,7 @@ This project is only an example of how I partner with cross-functional teams to 
 using technical documentation and software tools to improve business operations. In a real workplace, I would welcome 
 the challenging opportunity to dive into real work systems for in-depth analyses of the corresponding problems.
 
-Software and Sources: This presentation uses Excel, PowerPoint, SQL, Python, and Google platforms.
+Software and Sources: This presentation uses Excel, PowerPoint/Adobe Acrobat, SQL, Python, and Google platforms.
 
  
 Thank you for listening. I greatly appreciate your questions and feedback.
